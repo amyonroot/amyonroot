@@ -7,7 +7,7 @@ I am a cybersecurity enthusiast and recent Computer Science graduate with a pass
 - **CompTIA Network+**
 - **CompTIA Linux+**
 
-- ## Skills
+## Skills
 **Security & Analysis**  
 SIEM monitoring, log analysis, incident response, Sysmon, basic threat detection  
 
