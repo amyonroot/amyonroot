@@ -6,3 +6,18 @@ I am a cybersecurity enthusiast and recent Computer Science graduate with a pass
 - **CompTIA Security+**
 - **CompTIA Network+**
 - **CompTIA Linux+**
+
+- ## Skills
+**Security & Analysis**  
+SIEM monitoring, log analysis, incident response, Sysmon, basic threat detection  
+
+**Networking**  
+TCP/IP, DNS, DHCP, firewall rules, packet capture & analysis  
+
+**Systems**  
+Windows Server, Active Directory, Linux (Ubuntu, Kali, Debian), virtualization  
+
+**Tools**  
+Splunk, Wireshark, nmap, Hydra, Burp Suite, PowerShell, Bash, Python  
+
+Feel free to explore my repositories to see the projects and labs I’m currently working on!
