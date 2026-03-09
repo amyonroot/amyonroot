@@ -9,15 +9,15 @@ I am a cybersecurity enthusiast and recent Computer Science graduate with a pass
 
 ## Skills
 **Security & Analysis**  
-SIEM monitoring, log analysis, incident response, Sysmon, basic threat detection  
+SIEM monitoring, log analysis, basic threat detection  
 
 **Networking**  
-TCP/IP, DNS, DHCP, firewall rules, packet capture & analysis  
+TCP/IP, DNS, DHCP, firewall rules 
 
 **Systems**  
 Windows Server, Active Directory, Linux (Ubuntu, Kali, Debian), virtualization  
 
 **Tools**  
-Splunk, Wireshark, nmap, Burp Suite, PowerShell, Bash, Python  
+Splunk, Wireshark, nmap, PowerShell, Bash, Python  
 
 ### Feel free to explore my repositories to see the projects and labs I’m currently working on!
